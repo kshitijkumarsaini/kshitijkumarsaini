@@ -7,6 +7,6 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kshitij-kumar-saini98/" rel="nofollow">LinkedIn</a>
 - 😄 Pronouns: He/his
 
-<a href="https://github.com/ImKshitijKumar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKshitijKumar&theme=dark&hide_langs_below=1" alt="Kshitij's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKshitijKumar&theme=dark&hide_langs_below=1" style="max-width: 100%;">
+<a href="https://github.com/kshitijkumarsaini">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijkumarsaini&theme=dark&hide_langs_below=1" alt="Kshitij's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijkumarsaini&theme=dark&hide_langs_below=1" style="max-width: 100%;">
 </a>
