@@ -4,7 +4,7 @@
 - 🌱 I’m currently working as Salesforce Developer
 - 👯 I’m looking to collaborate on LinkedIn <!-- - 🤔 I’m looking for help with -->
 - 💬 Ask me about React Js, Vue Js, Node Js, Javascript and Salesforce related stuff.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/kshitij-kumar-saini98/" target="_blank" rel="nofollow">LinkedIn</a> Or <a href="https://kshitij-kumar-saini.vercel.app" target="_blank" rel="nofollow">Website</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kshitij-kumar-saini98/" rel="nofollow">LinkedIn</a> Or <a href="https://kshitij-kumar-saini.vercel.app" rel="nofollow">Website</a>
 - 😄 Pronouns: He/his
 
 <a href="https://github.com/kshitijkumarsaini">
