@@ -1,12 +1,69 @@
-<h2 dir="auto"><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi, I'm <a href="http://kshitij-kumar-saini.vercel.app" rel="nofollow">Kshitij Kumar Saini!</a> <g-emoji class="g-emoji" alias="wave">👋</g-emoji></h2>
+### <h2 dir="auto">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kshitij Kumar Saini!](https://kshitij-kumar-saini.vercel.app)</h2>
 
-- 🔭 I’m currently working on Salesforce, React/Next Js, Node Js & Vue Js
-- 🌱 I’m currently working as Salesforce Developer
-- 👯 I’m looking to collaborate on LinkedIn <!-- - 🤔 I’m looking for help with -->
-- 💬 Ask me about React Js, Vue Js, Node Js, Javascript and Salesforce related stuff.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/kshitij-kumar-saini98/" rel="nofollow">LinkedIn</a> Or <a href="https://kshitij-kumar-saini.vercel.app" rel="nofollow">Website</a>
-- 😄 Pronouns: He/his
+I'm a Full-Stack Web & Salesforce Developer🧑‍💻. I have achieved something I could never have expected from my life. I'm proud😎 to have selected my career in Computer Science.
+<br/>
+<br/>
 
-<a href="https://github.com/kshitijkumarsaini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijkumarsaini&theme=dark&hide_langs_below=1" alt="Kshitij's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijkumarsaini&theme=dark&hide_langs_below=1" style="max-width: 100%;">
+### 🤔 Bit about my Background & Interests
+
+<a target="_blank">
+  <img align="right" top="600" height="350" width="450" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
+- 🔭 Working on ***`Salesforce`, `React/Next JS`, `Node JS` & `Vue JS`***
+
+- 🕧 Having ***`3 Yrs`*** of Industry Experience
+
+- 🌱 Currently working as a ***`Salesforce Developer`***
+
+- 🤖 Currently learning Generative AI
+  
+- 💬 Ask me about ***`React JS`, `Vue JS`, `Node JS`, `Javascript`, and `Salesforce`*** related stuff.
+
+- ⚡ Have constantly growing love for technologies
+
+- 💖 Love taking challenges and learning new things daily
+
+- 😄 Pronouns: `He/his`
+<br/>
+<br/>
+
+### 🏆 Git Profile Stats & Trophy:
+<br/>
+<p align="center">
+<table align="center">
+  <tr border="none">
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kshitijkumarsaini&theme=radical&show_icons=true&count_private=true" />
+    <br></br>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkumarsaini&theme=radical&hide_border=false" alt="Kshitij's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijkumarsaini&theme=radical&hide_border=false" /> 
+  </td>
+  
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kshitijkumarsaini&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=kshitijkumarsaini&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+</div>
+</p>
+<br/>
+<br/>
+
+<h2>🔭 Tools of Trade</h2>
+
+[![](https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,materialui,js,jquery,docker,graphql,express,nodejs,react,nextjs,vue,prisma,redux,wordpress,postman,firebase,mongodb,gcp,powershell,vscode,planetscale,vercel,stackoverflow)](https://skillicons.dev)
+<br/>
+<br/>
+
+<h2>📫 Find Me On:</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kshitij-kumar-saini98/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/imkshitijkumar" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.instagram.com/iamkshitijkumarsaini"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://github.com/kshitijkumarsaini"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://kshitij-kumar-saini.vercel.app"><img src="https://skillicons.dev/icons?i=actix" /></a>
+</p>
+<!-- [![](https://visitcount.itsvg.in/api?id=kshitijkumarsaini&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
