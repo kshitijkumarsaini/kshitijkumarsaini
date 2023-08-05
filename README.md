@@ -52,7 +52,7 @@
 
 <h2>🔭 Tools of Trade</h2>
 
-[![](https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,materialui,js,jquery,docker,graphql,express,nodejs,react,nextjs,vue,prisma,redux,wordpress,postman,firebase,mongodb,gcp,powershell,vscode,planetscale,vercel,stackoverflow)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,tailwind,materialui,js,jquery,docker,graphql,express,nodejs,react,nextjs,vue,prisma,redux,wordpress,postman,firebase,mongodb,gcp,powershell,vscode,planetscale,vercel,stackoverflow)](https://skillicons.dev)
 <br/>
 <br/>
 
