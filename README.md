@@ -1,8 +1,6 @@
 ### <h2 dir="auto">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kshitij Kumar Saini!](https://kshitij-kumar-saini.vercel.app)</h2>
 
-I'm a Full-Stack Web & Salesforce Developer🧑‍💻. I have achieved something I could never have expected from my life. I'm proud😎 to have selected my career in Computer Science.
-<br/>
-<br/>
+ <img src="/assets/banner.png" alt="banner">
 
 ### 🤔 Bit about my Background & Interests
 
