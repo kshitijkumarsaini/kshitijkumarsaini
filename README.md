@@ -10,7 +10,7 @@
 
 - 🔭 Working on ***`Salesforce`, `React/Next JS`, `Node JS` & `Vue JS`***
 
-- 🕧 Having ***`3 Yrs`*** of Industry Experience
+- 🕧 Having ***`3.5 Yrs`*** of Industry Experience
 
 - 🌱 Currently working as a ***`Salesforce Developer`***
 
@@ -18,7 +18,7 @@
   
 - 💬 Ask me about ***`React JS`, `Vue JS`, `Node JS`, `Javascript`, and `Salesforce`*** related stuff.
 
-- ⚡ Have constantly growing love for technologies
+- ⚡ Have a constantly growing love for technologies
 
 - 💖 Love taking challenges and learning new things daily
 
